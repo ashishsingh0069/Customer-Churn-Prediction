@@ -1,6 +1,6 @@
 # Bank Customer Churn Prediction 🏦
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) ![XGBoost](https://img.shields.io/badge/XGBoost-Tuned-orange) ![Streamlit](https://img.shields.io/badge/Streamlit-Live_Demo-red?logo=streamlit)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) ![XGBoost](https://img.shields.io/badge/XGBoost-Tuned-orange) 
 
 ## 🚀 Live Demo
 
@@ -68,6 +68,7 @@ Customer-Churn-Prediction/
 
 ## 👨‍💻 Author
 **Ashish Singh** — [GitHub](https://github.com/ashishsingh0069)
+
 
 
 
