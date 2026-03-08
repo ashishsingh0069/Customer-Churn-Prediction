@@ -4,7 +4,7 @@
 
 ## 🔴 Live Demo
 **[Try the Live Churn Predictor →](https://your-app-name.streamlit.app)**
-*(Update the link after deploying to Streamlit Cloud)*
+*(Update the link after deploying to Streamlit Cloud)* 
 
 ## 📌 Project Overview
 Customer churn is one of the most critical metrics for any business, especially in the banking industry where acquiring a new customer can cost 5–7 times more than retaining an existing one.
@@ -60,3 +60,4 @@ Customer-Churn-Prediction/
 
 ## 👨‍💻 Author
 **Ashish Singh**
+
