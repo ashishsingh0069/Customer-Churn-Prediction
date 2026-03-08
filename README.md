@@ -2,6 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) ![XGBoost](https://img.shields.io/badge/XGBoost-Tuned-orange) ![Streamlit](https://img.shields.io/badge/Streamlit-Live_Demo-red?logo=streamlit)
 
+## 🚀 Live Demo
+
 [![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-red?logo=streamlit)](https://customer-churn-ashish.streamlit.app/)
 
 ## 📌 Project Overview
@@ -66,5 +68,6 @@ Customer-Churn-Prediction/
 
 ## 👨‍💻 Author
 **Ashish Singh** — [GitHub](https://github.com/ashishsingh0069)
+
 
 
