@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) ![XGBoost](https://img.shields.io/badge/XGBoost-Tuned-orange) ![Streamlit](https://img.shields.io/badge/Streamlit-Live_Demo-red?logo=streamlit)
 
 ## 🔴 Live Demo
-**[🚀 Try the Live Churn Predictor →](https://customer-churn-ashish.streamlit.app)**
+**[🚀 Try the Live Churn Predictor](https://customer-churn-ashish.streamlit.app)**
 
 ## 📌 Project Overview
 Customer churn is one of the most critical metrics for any business, especially in the banking industry where acquiring a new customer can cost **5–7x more** than retaining an existing one.
@@ -67,3 +67,4 @@ Customer-Churn-Prediction/
 
 ## 👨‍💻 Author
 **Ashish Singh** — [GitHub](https://github.com/ashishsingh0069)
+
