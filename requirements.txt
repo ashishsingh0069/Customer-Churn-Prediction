@@ -6,4 +6,6 @@ scikit-learn
 xgboost
 shap
 joblib
+altair<5
 streamlit
+
